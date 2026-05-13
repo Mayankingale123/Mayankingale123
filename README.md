@@ -36,7 +36,7 @@ GATE 2024 Qualified | 9+ months production experience
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mayankingale-blue)](https://www.linkedin.com/in/mayankingale-4247a72b9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mayankingale-blue)](https://www.linkedin.com/in/mayank-ingale)
 [![Email](https://img.shields.io/badge/Email-mayankingale02@gmail.com-red)](mailto:mayankingale02@gmail.com)
 
 📍 Bhopal, India | Open to: Bangalore · Hyderabad · Pune · Remote
